@@ -1,0 +1,4 @@
+DATA_FOLDER = "data/"
+OUTPUT_FILE = "output/results.csv"
+MOVING_AVG_WINDOW = 50
+VOLUME_LOOKBACK = 5
